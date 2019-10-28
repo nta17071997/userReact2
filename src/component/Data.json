@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "name": "Judon Iiannoni",
+    "phone": "867-561-7653",
+    "permission": "n/a"
+  }, {
+    "id": 2,
+    "name": "Donall Bister",
+    "phone": "703-257-0082",
+    "permission": "n/a"
+  }, {
+    "id": 3,
+    "name": "Romeo Doak",
+    "phone": "116-346-4485",
+    "permission": "n/a"
+  }, {
+    "id": 4,
+    "name": "Glynda Tilley",
+    "phone": "593-726-3191",
+    "permission": "Finance"
+  }, {
+    "id": 5,
+    "name": "Brina Chuck",
+    "phone": "747-628-2269",
+    "permission": "n/a"
+  }, {
+    "id": 6,
+    "name": "Branden Wordley",
+    "phone": "448-797-9776",
+    "permission": "Consumer Non-Durables"
+  }, {
+    "id": 7,
+    "name": "Lonni Freebury",
+    "phone": "466-740-0268",
+    "permission": "Finance"
+  }, {
+    "id": 8,
+    "name": "Aidan Harriman",
+    "phone": "348-906-2135",
+    "permission": "Finance"
+  }, {
+    "id": 9,
+    "name": "Catrina Gounel",
+    "phone": "208-451-4129",
+    "permission": "Finance"
+  }, {
+    "id": 10,
+    "name": "Reider Sewell",
+    "phone": "510-693-2115",
+    "permission": "Finance"
+  }]    
